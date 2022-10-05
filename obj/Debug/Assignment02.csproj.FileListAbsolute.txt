@@ -1,0 +1,8 @@
+C:\Users\theja\Desktop\Mobile Solutions Development\SEM2 - Fall 2022\Software quality assurance techniques\Assignment2\bin\Debug\Assignment02.exe.config
+C:\Users\theja\Desktop\Mobile Solutions Development\SEM2 - Fall 2022\Software quality assurance techniques\Assignment2\bin\Debug\Assignment02.exe
+C:\Users\theja\Desktop\Mobile Solutions Development\SEM2 - Fall 2022\Software quality assurance techniques\Assignment2\bin\Debug\Assignment02.pdb
+C:\Users\theja\Desktop\Mobile Solutions Development\SEM2 - Fall 2022\Software quality assurance techniques\Assignment2\obj\Debug\Assignment02.csproj.AssemblyReference.cache
+C:\Users\theja\Desktop\Mobile Solutions Development\SEM2 - Fall 2022\Software quality assurance techniques\Assignment2\obj\Debug\Assignment02.csproj.SuggestedBindingRedirects.cache
+C:\Users\theja\Desktop\Mobile Solutions Development\SEM2 - Fall 2022\Software quality assurance techniques\Assignment2\obj\Debug\Assignment02.csproj.CoreCompileInputs.cache
+C:\Users\theja\Desktop\Mobile Solutions Development\SEM2 - Fall 2022\Software quality assurance techniques\Assignment2\obj\Debug\Assignment02.exe
+C:\Users\theja\Desktop\Mobile Solutions Development\SEM2 - Fall 2022\Software quality assurance techniques\Assignment2\obj\Debug\Assignment02.pdb
