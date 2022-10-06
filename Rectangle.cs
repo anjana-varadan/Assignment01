@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Assignment02
 {
-    internal class Rectangle
+    public class Rectangle
     {
         //variable declaration
         int length;
